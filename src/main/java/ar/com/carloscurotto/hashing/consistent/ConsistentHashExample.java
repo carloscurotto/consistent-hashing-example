@@ -6,6 +6,12 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * This is a simple example to show consistent hashing works.
+ * 
+ * @author carloscurotto
+ *
+ */
 public class ConsistentHashExample {
 
     public static void main(String[] args) {

@@ -6,10 +6,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import com.sac.panorama.consistent.hashing.ConsistentHash;
-import com.sac.panorama.consistent.hashing.MD5HashFunction;
-import com.sac.panorama.consistent.hashing.Member;
-
 public class ConsistentHashExample {
 
     public static void main(String[] args) {
